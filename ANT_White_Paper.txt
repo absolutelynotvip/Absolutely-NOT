@@ -1,0 +1,32 @@
+
+Absolutely Not Token (ANT) - White Paper
+
+Abstract
+The Absolutely Not Token (ANT) is a revolutionary memecoin designed to embrace community, humor, and innovation in the cryptocurrency space. ANT symbolizes resilience and defiance, inspired by a spirit of independence.
+
+Token Details
+- Token Name: Absolutely Not Token
+- Ticker Symbol: ANT
+- Blockchain: Polygon (MATIC)
+- Total Supply: 1,000,000,000 (1 billion)
+
+Core Features
+1. 1% Transaction Fee:
+   - 50% allocated to liquidity.
+   - 50% allocated to the staking pool.
+
+2. Liquidity Lock:
+   Liquidity is locked for one year to ensure security and investor trust.
+
+3. Staking Pool:
+   Community members can earn rewards by participating in staking.
+
+4. No Presale or Private Sale:
+   A fair launch, ensuring equal opportunity for everyone.
+
+Vision
+The Absolutely Not Token aims to build a thriving and engaged community while exploring innovative opportunities in the blockchain ecosystem.
+
+Contact
+For any inquiries, please reach out to:
+Email: absolutelynotvip@gmail.com
